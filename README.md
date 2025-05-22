@@ -1,3 +1,3 @@
-# demo-repository
+clear# demo-repository
 <br>
-Author- Anshul Anand
+Author- Anshul Anand (NSUT)
